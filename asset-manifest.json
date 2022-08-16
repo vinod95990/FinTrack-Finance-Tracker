@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FinTrack-Finance-Tracker/static/css/main.8df0a998.css",
+    "main.js": "/FinTrack-Finance-Tracker/static/js/main.688d1e93.js",
+    "static/media/winter2.jpg": "/FinTrack-Finance-Tracker/static/media/winter2.2db4b2c5f4791c56cc61.jpg",
+    "static/media/wallet.png": "/FinTrack-Finance-Tracker/static/media/wallet.e0a00b76027c2ecf6aa1.png",
+    "index.html": "/FinTrack-Finance-Tracker/index.html",
+    "main.8df0a998.css.map": "/FinTrack-Finance-Tracker/static/css/main.8df0a998.css.map",
+    "main.688d1e93.js.map": "/FinTrack-Finance-Tracker/static/js/main.688d1e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df0a998.css",
+    "static/js/main.688d1e93.js"
+  ]
+}
